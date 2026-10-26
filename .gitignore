@@ -1,0 +1,15 @@
+# ROS 2 / colcon build outputs
+rov_learning_ws/build/
+rov_learning_ws/install/
+rov_learning_ws/log/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Development environment files
+.venv/
+venv/
+.env
+.vscode/
